@@ -97,7 +97,7 @@ GEM
     cose (1.2.0)
       cbor (~> 0.5.9)
       openssl-signature_algorithm (~> 1.0)
-    cppjieba_rb (0.3.3)
+    cppjieba_rb (0.4.2)
     crack (0.4.5)
       rexml
     crass (1.0.6)
@@ -198,6 +198,7 @@ GEM
     jwt (2.3.0)
     kgio (2.11.4)
     libv8-node (16.10.0.0)
+    libv8-node (16.10.0.0-arm64-darwin)
     libv8-node (16.10.0.0-x86_64-darwin)
     libv8-node (16.10.0.0-x86_64-darwin-19)
     libv8-node (16.10.0.0-x86_64-linux)
